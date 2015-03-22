@@ -1,0 +1,16 @@
+C:\Users\asus\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\asus\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\asus\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\asus\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\宇\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\宇\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\宇\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\宇\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\宇\程式test\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\宇\程式test\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\宇\程式test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\宇\程式test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\宇\程式test\階層(do...while版)\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\宇\程式test\階層(do...while版)\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\asus\Desktop\宇\程式test\階層(do...while版)\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\asus\Desktop\宇\程式test\階層(do...while版)\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

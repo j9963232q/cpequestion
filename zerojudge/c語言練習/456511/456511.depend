@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410513543 source:c:\users\user\documents\桌面\程式test\c語言練習\456511\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

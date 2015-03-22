@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\宇\程式test\階層\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\asus\Desktop\宇\程式test\階層\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\asus\Desktop\宇\程式test\階層\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\宇\程式test\階層\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\asus\Desktop\宇\程式test\階層\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb
+C:\Users\asus\Desktop\宇\程式test\階層(for...版)\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.exe
+C:\Users\asus\Desktop\宇\程式test\階層(for...版)\ConsoleApplication3\obj\x86\Debug\ConsoleApplication3.pdb

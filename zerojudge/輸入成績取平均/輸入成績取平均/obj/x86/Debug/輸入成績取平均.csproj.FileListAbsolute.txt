@@ -1,0 +1,4 @@
+C:\Users\asus\Desktop\宇\程式test\輸入成績取平均\輸入成績取平均\bin\Debug\輸入成績取平均.exe
+C:\Users\asus\Desktop\宇\程式test\輸入成績取平均\輸入成績取平均\bin\Debug\輸入成績取平均.pdb
+C:\Users\asus\Desktop\宇\程式test\輸入成績取平均\輸入成績取平均\obj\x86\Debug\輸入成績取平均.exe
+C:\Users\asus\Desktop\宇\程式test\輸入成績取平均\輸入成績取平均\obj\x86\Debug\輸入成績取平均.pdb

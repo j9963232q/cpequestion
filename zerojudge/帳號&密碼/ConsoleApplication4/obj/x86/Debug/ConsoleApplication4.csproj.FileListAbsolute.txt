@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\宇\程式test\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\asus\Desktop\宇\程式test\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\asus\Desktop\宇\程式test\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\asus\Desktop\宇\程式test\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\Users\asus\Desktop\宇\程式test\帳號&密碼\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\Users\asus\Desktop\宇\程式test\帳號&密碼\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb

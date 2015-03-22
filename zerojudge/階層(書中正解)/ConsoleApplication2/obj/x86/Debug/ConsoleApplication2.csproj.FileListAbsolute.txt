@@ -1,0 +1,4 @@
+C:\Users\asus\Desktop\宇\程式test\階層(書中正解)\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\asus\Desktop\宇\程式test\階層(書中正解)\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\asus\Desktop\宇\程式test\階層(書中正解)\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\asus\Desktop\宇\程式test\階層(書中正解)\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb
